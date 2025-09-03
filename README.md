@@ -19,3 +19,12 @@ Este projeto é um CRUD que utiliza **JavaScript no frontend** e  banco de dados
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)  
 - [Firebase](https://firebase.google.com/?hl=pt-br)
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Glossary/HTML)
+
+## 🚀 Próximos Passos
+
+### Funcionalidades
+- [ ] Tela de login para autenticação do usuário
+
+### Melhorias Futuras
+- [ ] Ajustes de interface
+- [ ] Documentação mais detalhada
